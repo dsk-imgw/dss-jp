@@ -6,3 +6,5 @@
   - (2) DSS をインストールしたフォルダ内に ```translations``` というフォルダがあるはずなので、その中に (1) のファイルを上書きコピー。
   - (3) DSS を起動し、"About DeepSkyStacker ..." -> "Languages" -> "日本語" を選択。
   - (4) DSS を起動し直す。
+
+<img width="1959" height="1258" alt="DSS_6 1 3_ja" src="https://github.com/user-attachments/assets/f4860297-be94-4fb2-8bbf-0a5ac1d04dfb" />
